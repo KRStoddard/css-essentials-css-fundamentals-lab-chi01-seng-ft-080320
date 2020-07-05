@@ -9,3 +9,7 @@ h1 {
 figure {
   text-align: center;
 }
+nav a {
+  padding: 10px;
+  background: grey;
+}
